@@ -9,7 +9,7 @@ public class Main {
         post.passport = "1234 123456";
         post.phone = "89828982982";
         post.patronymie = "зарегистрирован";
-        post.birthday = new FormDate();
+        post.birthday = new FormDate(); // класс даты рождения
         Post.birthday.day = 13;
         Post.birthday.month = 02;
         Post.birthday.year = 1998;
