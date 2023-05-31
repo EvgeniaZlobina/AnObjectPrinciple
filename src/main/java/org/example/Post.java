@@ -1,9 +1,9 @@
 package org.example;
 
 public class Post {
-    public static String surname; // поле для фамилии
     public static FormDate birthday;
-    public String name; //поле для имени
+    public static String surname; // поле для фамилии
+    public String name; //поле для имен
     public String patronymie; // поле для отчества
     public String passport; // поле для паспорта
     public String phone; // поле для телефона
